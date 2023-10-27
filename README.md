@@ -47,3 +47,6 @@
 
 <b>•click no botão copyPasswordButton:</b> Essa ação copia a senha gerada para a área de transferência.
 
+<h2 align="center">Tela do Projeto</h2>
+https://github.com/Pilatis/Password_generator/issues/1#issue-1965602907
+
