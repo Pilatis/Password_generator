@@ -45,8 +45,10 @@
 
 <b>•click no botão openCloseGeneratorButton:</b> Essa ação abre ou fecha o gerador de senhas.
 
+
+<h2 aling="center">Tela do Projeto</h2>
+
 <b>•click no botão copyPasswordButton:</b> Essa ação copia a senha gerada para a área de transferência.
 
 <h2 align="center">Tela do Projeto</h2>
-https://github.com/Pilatis/Password_generator/issues/1#issue-1965602907
-
+<img src="![telaSenha](https://github.com/Pilatis/Password_generator/assets/139661291/9c674354-3821-4970-9ef6-9c6df622f475)" />
