@@ -1,45 +1,49 @@
-# Password_generator
 
-<h2>●Entendendo o código</h2>
-<h4>ELEMENTOS</h4>
 
-<p>generatePasswordButton: Este botão é usado para gerar uma nova senha.</p> 
-
-<p>generatedPasswordElement: Este elemento é usado para exibir a senha gerada.
-
-<p>openCloseGeneratorButton: Este botão é usado para abrir ou fechar o gerador de senhas.
-
-<p>generatePasswordContainer: Este elemento contém os elementos do gerador de senhas.
-
-<p>lengthInput: Este campo de entrada é usado para definir o comprimento da senha gerada.
-
-<p>lettersInput: Este checkbox é usado para incluir letras na senha gerada.
-
-<p>numbersInput: Este checkbox é usado para incluir números na senha gerada.
-
-<p>symbolsInput: Este checkbox é usado para incluir símbolos na senha gerada.
-
-copyPasswordButton: Este botão é usado para copiar a senha gerada para a área de transferência.
+<h1 aling="center">●Entendendo o código</h1>
 <br>
 
-<h4>Nesta parte, você define as seguintes funções:</h4>
+<h3 style="display:  inline_block" align="center">ELEMENTOS</h3>
 
-getLetterLowerCase(): Esta função retorna um caractere aleatório do alfabeto em minúsculas.
+<b>•generatePasswordButton:</b> Este botão é usado para gerar uma nova senha.</p> 
 
-getLetterUpperCase(): Esta função retorna um caractere aleatório do alfabeto em maiúsculas.
+<b>•generatedPasswordElement:</b> Este elemento é usado para exibir a senha gerada.
 
-getNumber(): Esta função retorna um número aleatório de 0 a 9.
+<b>•openCloseGeneratorButton:</b> Este botão é usado para abrir ou fechar o gerador de senhas.
 
-getSymbol(): Esta função retorna um símbolo aleatório de um conjunto de símbolos pré-definidos.
+<b>•generatePasswordContainer:</b> Este elemento contém os elementos do gerador de senhas.
 
-generatePassword(): Esta função gera uma nova senha usando as funções getLetterLowerCase(), getLetterUpperCase(), getNumber() e getSymbol().
+<b>•lengthInput:</b> Este campo de entrada é usado para definir o comprimento da senha gerada.
+
+<b>•lettersInput:</b> Este checkbox é usado para incluir letras na senha gerada.
+
+<b>•numbersInput:</b> Este checkbox é usado para incluir números na senha gerada.
+
+<b>•symbolsInput:</b> Este checkbox é usado para incluir símbolos na senha gerada.
+
+<b>•copyPasswordButton:</b> Este botão é usado para copiar a senha gerada para a área de transferência.
+<br>
+<br>
+
+<h2 align="center">Funções</h2>
+
+<b>•getLetterLowerCase():</b> Esta função retorna um caractere aleatório do alfabeto em minúsculas.
+
+<b>•getLetterUpperCase():</b> Esta função retorna um caractere aleatório do alfabeto em maiúsculas.
+
+<b>•getNumber():</b> Esta função retorna um número aleatório de 0 a 9.
+
+<b>•getSymbol():</b> Esta função retorna um símbolo aleatório de um conjunto de símbolos pré-definidos.
+
+<b>•generatePassword():</b> Esta função gera uma nova senha usando as funções getLetterLowerCase(), getLetterUpperCase(), getNumber() e getSymbol().
 
 
-<h4>Eventos</h4>
+<h2 align="center">Eventos</h2>
 
-Nesta parte, você define os seguintes eventos:
 
-click no botão generatePasswordButton: Essa ação gera uma nova senha.
-click no botão openCloseGeneratorButton: Essa ação abre ou fecha o gerador de senhas.
-click no botão copyPasswordButton: Essa ação copia a senha gerada para a área de transferência.
+<b>•click no botão generatePasswordButton:</b> Essa ação gera uma nova senha.
+
+<b>•click no botão openCloseGeneratorButton:</b> Essa ação abre ou fecha o gerador de senhas.
+
+<b>•click no botão copyPasswordButton:</b> Essa ação copia a senha gerada para a área de transferência.
 
